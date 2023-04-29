@@ -16,11 +16,11 @@ const NavBar = () => {
         <img src={images.gamboriniLogo} alt='logo'/>
       </div>
       <ul className='app__navbar-links'>
-        <li className='p__opensans'><a href="#home"></a>Home</li>
-        <li className='p__opensans'><a href="#about"></a>About</li>
-        <li className='p__opensans'><a href="#menu"></a>Menu</li>
-        <li className='p__opensans'><a href="#awards"></a>Awards</li>
-        <li className='p__opensans'><a href="#contact"></a>Contact</li>
+        <li className='p__opensans'><a href="#home">Home</a></li>
+        <li className='p__opensans'><a href="#about">About</a></li>
+        <li className='p__opensans'><a href="#menu">Menu</a></li>
+        <li className='p__opensans'><a href="#awards">Awards</a></li>
+        <li className='p__opensans'><a href="#contact">Contact</a></li>
       </ul>
 
 
